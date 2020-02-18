@@ -1,0 +1,26 @@
+{
+  "name": "googleapistest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "build": "NODE_ENV=production nwb build-react-app",
+    "start": "NODE_ENV=production node server.js",
+    "dev": "NODE_ENV=dev nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^47.0.0",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "nwb": "^0.23.0",
+    "react": "^16.12.0",
+    "react-big-calendar": "^0.23.0",
+    "react-dom": "^16.12.0",
+    "react-modal": "^3.11.1",
+    "ws": "^7.2.1"
+  }
+}
