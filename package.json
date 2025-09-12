@@ -16,7 +16,7 @@
     "googleapis": "^47.0.0",
     "moment": "^2.24.0",
     "nodemon": "^2.0.2",
-    "nwb": "^0.23.0",
+    "nwb": "^0.25.2",
     "react": "^16.12.0",
     "react-big-calendar": "^0.23.0",
     "react-dom": "^16.12.0",
